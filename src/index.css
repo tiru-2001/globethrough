@@ -41,7 +41,7 @@
 }
 
 h1 {
-  @apply heading_font text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[4rem];
+  @apply heading_font text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[3.8rem];
 }
 
 h2 {
