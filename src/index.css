@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+  border: 2px solid orange;
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+/* @font-face {
+  font-family: 'Satoshi-Regular';
+  src: url('./assets/fonts/fonts/Satoshi-Regular.woff2') format('woff2')
+      url('.assets/fonts/fonts/Satoshi-Regular.woff') format('woff'),
+    url('.assets/fonts/fonts/Satoshi-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+} */
+.heading_font {
+  font-family: 'Satoshi-Black';
+}
+.subheading_font {
+  font-family: 'Satoshi-Bold';
+}
+.body_font {
+  font-family: 'Satoshi-Regular';
+  font-weight: 400;
+}
+
+h1 {
+  @apply heading_font text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[4rem];
+}
+
+h2 {
+  @apply subheading_font  text-[2.5rem] sm:text-[3.5rem] text-theme_color;
+}
