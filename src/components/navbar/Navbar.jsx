@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <header className="shadow-md absolute z-20  backdrop-blur-md text-white bg-black bg-opacity-20 top-0 left-[50%] translate-x-[-50%] rounded-b-xl flex flex-col sm:flex-row items-center px-6 justify-between mx-auto h-24  w-4/5">
       <section>
-        <NavLink to={'/'} className="text-xl border-2 border-green-500">
+        <NavLink to={'/'} className="text-xl ">
           <img className=" h-[60px]" src="/globethrough.svg" />
         </NavLink>
       </section>
