@@ -3,7 +3,7 @@ import { Navbar, Footer } from '../../components';
 
 const Parent = () => {
   return (
-    <section className="flex body_font flex-col justify-between  min-h-screen">
+    <section className="flex  flex-col justify-between  min-h-screen">
       <Navbar />
       <Outlet />
       <Footer />

@@ -77,7 +77,7 @@ const Home = () => {
           <h2>Features</h2>
         </section>
         <section className="grid w-[95%]  md:w-4/5 gap-6 sm:auto-rows-[minmax(400px,auto)] grid-cols-1 sm:grid-cols-3 ">
-          <section className="shadow-md py-4 bg-features flex items-center justify-center px-2 md:px-4 gap-4 flex-col rounded-md overflow-hidden  sm:col-span-2 ">
+          <section className="shadow-md hover:scale-90 transition py-4 bg-features flex items-center justify-center px-2 md:px-4 gap-4 flex-col rounded-md overflow-hidden  sm:col-span-2 ">
             <h3 className="text-[1.4rem] sm:text-[1.8rem]  md:text-[2.2rem] text-center text-white font-bold">
               Personalized Recommendations
             </h3>
@@ -86,7 +86,7 @@ const Home = () => {
               to enhance the user experience
             </p>
           </section>
-          <section className=" flex items-center py-4 bg-features justify-center px-2 md:px-4 gap-4 flex-col shadow-md rounded-md overflow-hidden ">
+          <section className=" flex items-center hover:scale-90 transition  py-4 bg-features justify-center px-2 md:px-4 gap-4 flex-col shadow-md rounded-md overflow-hidden ">
             <h3 className="text-[1.4rem] sm:text-[1.8rem]  md:text-[2.2rem] text-center text-white font-bold">
               Multi-Language and Currency Support
             </h3>
@@ -95,7 +95,7 @@ const Home = () => {
               global audience.
             </p>
           </section>
-          <section className=" flex items-center py-4 bg-features justify-center px-2 md:px-4 gap-4 flex-col shadow-md rounded-md overflow-hidden  ">
+          <section className=" flex items-center hover:scale-90 transition  py-4 bg-features justify-center px-2 md:px-4 gap-4 flex-col shadow-md rounded-md overflow-hidden  ">
             <h3 className="text-[1.4rem] sm:text-[1.8rem]  md:text-[2.2rem] text-center text-white font-bold">
               Loyalty and Rewards Programs
             </h3>
@@ -104,7 +104,7 @@ const Home = () => {
               added value to loyal customers.
             </p>
           </section>
-          <section className=" shadow-md flex py-4 bg-features items-center justify-center px-2 md:px-4 gap-4 flex-col rounded-md overflow-hidden  sm:col-span-2 ">
+          <section className=" shadow-md flex hover:scale-90 transition  py-4 bg-features items-center justify-center px-2 md:px-4 gap-4 flex-col rounded-md overflow-hidden  sm:col-span-2 ">
             <h3 className="text-[1.4rem] sm:text-[1.8rem]  md:text-[2.2rem] text-center text-white font-bold">
               24-Hour Clock Display
             </h3>
