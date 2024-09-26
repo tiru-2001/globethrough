@@ -64,7 +64,7 @@ const Home = () => {
               </p>
               <a
                 href="#contact"
-                className="p-3  text-center rounded backdrop-blur-sm sm:w-[100px]  text-lg border-[0.5px] border-white bg-zinc-500 text-white bg-opacity-40"
+                className="p-3  text-center rounded backdrop-blur-sm w-max sm:w-[100px]  text-lg border-[0.5px] border-white bg-zinc-500 text-white bg-opacity-40"
               >
                 join
               </a>
