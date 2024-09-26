@@ -58,13 +58,13 @@ const Home = () => {
                   Globethrough
                 </span>
               </h1>
-              <p className="text-[1.5rem] md:text-[2.2rem] w-full sm:w-[90%] md:w-3/4 xl:w-2/4 text-gray-400">
+              <p className="text-[1.5rem] md:text-[2rem] w-full sm:w-[90%] md:w-3/4 xl:w-2/4 text-gray-300">
                 Globethrough invites you to experience the world’s beauty, one
                 journey at a time, crafted for the curious traveler
               </p>
               <a
                 href="#contact"
-                className="p-3 text-center rounded backdrop-blur-sm w-[100px] sm:w-[20%] text-lg border-[0.5px] border-white bg-zinc-500 text-white bg-opacity-40"
+                className="p-3  text-center rounded backdrop-blur-sm sm:w-[100px]  text-lg border-[0.5px] border-white bg-zinc-500 text-white bg-opacity-40"
               >
                 join
               </a>
@@ -123,7 +123,7 @@ const Home = () => {
             <section className="h-full  w-full ">
               <img
                 src={features[index].img}
-                className="h-[300px]  sm:h-full w-full shadow-2xl object-cover"
+                className="h-[300px] object-cover sm:h-full w-full shadow-2xl "
                 alt="image"
               />
             </section>

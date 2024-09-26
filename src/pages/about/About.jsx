@@ -24,23 +24,23 @@ const Aboutus = () => {
           </span>
 
           <p className="leading-7 sm:leading-8 md:leading-10 sm:text-center md:text-justify m-5 mb-4 sm:mb-10 mt-10 sm:mt-20 font-manrope text-lg sm:text-2xl md:text-3xl font-thin text-gray-600">
-            Globe Through is a cutting-edge ticket booking application created
-            by Websort to revolutionize the way people book tickets for travel,
-            events, and more. Designed with user convenience in mind, Globe
-            Through simplifies the booking process and offers a seamless
+            Globethrough is a cutting-edge ticket booking application created by
+            Websort to revolutionize the way people book tickets for travel,
+            events, and more. Designed with user convenience in mind,
+            Globethrough simplifies the booking process and offers a seamless
             experience for users around the globe.
           </p>
           <p className="leading-7 sm:leading-8 md:leading-10 sm:text-center md:text-justify m-5 mb-4 sm:mb-10 mt-8 sm:mt-10 font-manrope text-lg sm:text-2xl md:text-3xl font-thin text-gray-600">
             With a commitment to enhancing the travel and event booking
-            experience, Globe Through provides a platform that caters to diverse
+            experience, Globethrough provides a platform that caters to diverse
             needs and preferences. Whether you’re planning your next adventure
-            or organizing an important event, Globe Through ensures a
+            or organizing an important event, Globethrough ensures a
             straightforward and efficient booking process.
           </p>
           <p className="leading-7 sm:leading-8 md:leading-10 sm:text-center md:text-justify m-5 mb-4 sm:mb-10 mt-6 sm:mt-10 font-manrope text-lg sm:text-2xl md:text-3xl font-thin text-gray-600">
             Our application combines modern technology with a user-friendly
-            interface to help you manage your bookings effortlessly. Globe
-            Through aims to make every booking a hassle-free experience,
+            interface to help you manage your bookings effortlessly.
+            Globethrough aims to make every booking a hassle-free experience,
             providing users with the tools they need to easily plan and enjoy
             their journeys and events.
           </p>

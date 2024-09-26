@@ -20,10 +20,10 @@ const HFooter = () => {
           </div> */}
           <div className="flex-1 mt-6 md:mt-0 md:max-w-2/3  mx-auto md:mr-20 md:ml-64">
             <p className="text-xx md:text-xl text-left md:text-left font-manrope leading-relaxed">
-              Globe Through is a cutting-edge ticket booking application created
+              Globethrough is a cutting-edge ticket booking application created
               by Websort to revolutionize the way people book tickets for
               travel, events, and more. Designed with user convenience in mind,
-              Globe Through simplifies the booking process and offers a seamless
+              Globethrough simplifies the booking process and offers a seamless
               experience for users around the globe.
             </p>
           </div>

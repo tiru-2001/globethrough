@@ -41,9 +41,9 @@
 }
 
 h1 {
-  @apply heading_font text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[3.8rem];
+  @apply heading_font text-[2rem] sm:text-[2.5rem] md:text-[3rem] lg:text-[3.5rem] xl:text-[3.6rem];
 }
 
 h2 {
-  @apply subheading_font  text-[2.5rem] sm:text-[3.5rem] text-theme_color;
+  @apply subheading_font  text-[2.5rem] sm:text-[3.2rem] text-theme_color;
 }
